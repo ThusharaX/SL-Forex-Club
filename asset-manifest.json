@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.ccdd12d0.chunk.js",
-    "main.js.map": "/static/js/main.ccdd12d0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7e40ddf3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7e40ddf3.js.map",
-    "static/js/2.6e034c2c.chunk.js": "/static/js/2.6e034c2c.chunk.js",
-    "static/js/2.6e034c2c.chunk.js.map": "/static/js/2.6e034c2c.chunk.js.map",
-    "static/js/3.f3c603d4.chunk.js": "/static/js/3.f3c603d4.chunk.js",
-    "static/js/3.f3c603d4.chunk.js.map": "/static/js/3.f3c603d4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6e034c2c.chunk.js.LICENSE.txt": "/static/js/2.6e034c2c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/SL-Forex-Club/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/SL-Forex-Club/static/js/main.ccdd12d0.chunk.js",
+    "main.js.map": "/SL-Forex-Club/static/js/main.ccdd12d0.chunk.js.map",
+    "runtime-main.js": "/SL-Forex-Club/static/js/runtime-main.9767c5a3.js",
+    "runtime-main.js.map": "/SL-Forex-Club/static/js/runtime-main.9767c5a3.js.map",
+    "static/js/2.6e034c2c.chunk.js": "/SL-Forex-Club/static/js/2.6e034c2c.chunk.js",
+    "static/js/2.6e034c2c.chunk.js.map": "/SL-Forex-Club/static/js/2.6e034c2c.chunk.js.map",
+    "static/js/3.f3c603d4.chunk.js": "/SL-Forex-Club/static/js/3.f3c603d4.chunk.js",
+    "static/js/3.f3c603d4.chunk.js.map": "/SL-Forex-Club/static/js/3.f3c603d4.chunk.js.map",
+    "index.html": "/SL-Forex-Club/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/SL-Forex-Club/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6e034c2c.chunk.js.LICENSE.txt": "/SL-Forex-Club/static/js/2.6e034c2c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SL-Forex-Club/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e40ddf3.js",
+    "static/js/runtime-main.9767c5a3.js",
     "static/js/2.6e034c2c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.ccdd12d0.chunk.js"
